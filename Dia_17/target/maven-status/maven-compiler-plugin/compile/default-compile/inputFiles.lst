@@ -1,0 +1,11 @@
+/home/ficdev/NetBeansProjects/projetocompleto/src/main/java/br/com/ficdev/java/projetocompleto/controllers/ProdutoController.java
+/home/ficdev/NetBeansProjects/projetocompleto/src/main/java/br/com/ficdev/java/projetocompleto/ProjetocompletoApplication.java
+/home/ficdev/NetBeansProjects/projetocompleto/src/main/java/br/com/ficdev/java/projetocompleto/repositories/CategoriaRepository.java
+/home/ficdev/NetBeansProjects/projetocompleto/src/main/java/br/com/ficdev/java/projetocompleto/controllers/ClienteController.java
+/home/ficdev/NetBeansProjects/projetocompleto/src/main/java/br/com/ficdev/java/projetocompleto/models/Categoria.java
+/home/ficdev/NetBeansProjects/projetocompleto/src/main/java/br/com/ficdev/java/projetocompleto/models/Produto.java
+/home/ficdev/NetBeansProjects/projetocompleto/src/main/java/br/com/ficdev/java/projetocompleto/models/Cliente.java
+/home/ficdev/NetBeansProjects/projetocompleto/src/main/java/br/com/ficdev/java/projetocompleto/models/Compra.java
+/home/ficdev/NetBeansProjects/projetocompleto/src/main/java/br/com/ficdev/java/projetocompleto/controllers/CompraController.java
+/home/ficdev/NetBeansProjects/projetocompleto/src/main/java/br/com/ficdev/java/projetocompleto/controllers/CategoriaController.java
+/home/ficdev/NetBeansProjects/projetocompleto/src/main/java/br/com/ficdev/java/projetocompleto/repositories/ProdutoRepository.java

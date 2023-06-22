@@ -1,0 +1,11 @@
+br/com/ficdev/java/projetocompleto/models/Cliente.class
+br/com/ficdev/java/projetocompleto/controllers/CategoriaController.class
+br/com/ficdev/java/projetocompleto/repositories/ProdutoRepository.class
+br/com/ficdev/java/projetocompleto/models/Compra.class
+br/com/ficdev/java/projetocompleto/controllers/ProdutoController.class
+br/com/ficdev/java/projetocompleto/ProjetocompletoApplication.class
+br/com/ficdev/java/projetocompleto/controllers/CompraController.class
+br/com/ficdev/java/projetocompleto/models/Categoria.class
+br/com/ficdev/java/projetocompleto/controllers/ClienteController.class
+br/com/ficdev/java/projetocompleto/repositories/CategoriaRepository.class
+br/com/ficdev/java/projetocompleto/models/Produto.class
